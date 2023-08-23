@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Atribuiçao\bin\Debug\net7.0\Atribuiçao.exe
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Atribuiçao\bin\Debug\net7.0\Atribuiçao.deps.json
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Atribuiçao\bin\Debug\net7.0\Atribuiçao.runtimeconfig.json
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Atribuiçao\bin\Debug\net7.0\Atribuiçao.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Atribuiçao\bin\Debug\net7.0\Atribuiçao.pdb
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Atribuiçao\obj\Debug\net7.0\Atribuiçao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Atribuiçao\obj\Debug\net7.0\Atribuiçao.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Atribuiçao\obj\Debug\net7.0\Atribuiçao.AssemblyInfo.cs
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Atribuiçao\obj\Debug\net7.0\Atribuiçao.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Atribuiçao\obj\Debug\net7.0\Atribuiçao.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Atribuiçao\obj\Debug\net7.0\refint\Atribuiçao.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Atribuiçao\obj\Debug\net7.0\Atribuiçao.pdb
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Atribuiçao\obj\Debug\net7.0\Atribuiçao.genruntimeconfig.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Atribuiçao\obj\Debug\net7.0\ref\Atribuiçao.dll

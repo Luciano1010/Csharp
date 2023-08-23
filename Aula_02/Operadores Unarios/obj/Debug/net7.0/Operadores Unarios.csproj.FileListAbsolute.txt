@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Operadores Unarios\bin\Debug\net7.0\Operadores Unarios.exe
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Operadores Unarios\bin\Debug\net7.0\Operadores Unarios.deps.json
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Operadores Unarios\bin\Debug\net7.0\Operadores Unarios.runtimeconfig.json
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Operadores Unarios\bin\Debug\net7.0\Operadores Unarios.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Operadores Unarios\bin\Debug\net7.0\Operadores Unarios.pdb
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Operadores Unarios\obj\Debug\net7.0\Operadores Unarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Operadores Unarios\obj\Debug\net7.0\Operadores Unarios.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Operadores Unarios\obj\Debug\net7.0\Operadores Unarios.AssemblyInfo.cs
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Operadores Unarios\obj\Debug\net7.0\Operadores Unarios.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Operadores Unarios\obj\Debug\net7.0\Operadores Unarios.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Operadores Unarios\obj\Debug\net7.0\refint\Operadores Unarios.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Operadores Unarios\obj\Debug\net7.0\Operadores Unarios.pdb
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Operadores Unarios\obj\Debug\net7.0\Operadores Unarios.genruntimeconfig.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_02\Operadores Unarios\obj\Debug\net7.0\ref\Operadores Unarios.dll

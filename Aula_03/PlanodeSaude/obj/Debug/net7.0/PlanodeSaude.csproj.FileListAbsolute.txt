@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_03\PlanodeSaude\obj\Debug\net7.0\PlanodeSaude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_03\PlanodeSaude\obj\Debug\net7.0\PlanodeSaude.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_03\PlanodeSaude\obj\Debug\net7.0\PlanodeSaude.AssemblyInfo.cs
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_03\PlanodeSaude\obj\Debug\net7.0\PlanodeSaude.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_03\PlanodeSaude\bin\Debug\net7.0\PlanodeSaude.exe
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_03\PlanodeSaude\bin\Debug\net7.0\PlanodeSaude.deps.json
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_03\PlanodeSaude\bin\Debug\net7.0\PlanodeSaude.runtimeconfig.json
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_03\PlanodeSaude\bin\Debug\net7.0\PlanodeSaude.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_03\PlanodeSaude\bin\Debug\net7.0\PlanodeSaude.pdb
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_03\PlanodeSaude\obj\Debug\net7.0\PlanodeSaude.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_03\PlanodeSaude\obj\Debug\net7.0\refint\PlanodeSaude.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_03\PlanodeSaude\obj\Debug\net7.0\PlanodeSaude.pdb
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_03\PlanodeSaude\obj\Debug\net7.0\PlanodeSaude.genruntimeconfig.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_03\PlanodeSaude\obj\Debug\net7.0\ref\PlanodeSaude.dll

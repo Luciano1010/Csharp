@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_Laço_For\bin\Debug\net7.0\Exercicio_Laço_For.exe
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_Laço_For\bin\Debug\net7.0\Exercicio_Laço_For.deps.json
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_Laço_For\bin\Debug\net7.0\Exercicio_Laço_For.runtimeconfig.json
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_Laço_For\bin\Debug\net7.0\Exercicio_Laço_For.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_Laço_For\bin\Debug\net7.0\Exercicio_Laço_For.pdb
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_Laço_For\obj\Debug\net7.0\Exercicio_Laço_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_Laço_For\obj\Debug\net7.0\Exercicio_Laço_For.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_Laço_For\obj\Debug\net7.0\Exercicio_Laço_For.AssemblyInfo.cs
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_Laço_For\obj\Debug\net7.0\Exercicio_Laço_For.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_Laço_For\obj\Debug\net7.0\Exercicio_Laço_For.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_Laço_For\obj\Debug\net7.0\refint\Exercicio_Laço_For.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_Laço_For\obj\Debug\net7.0\Exercicio_Laço_For.pdb
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_Laço_For\obj\Debug\net7.0\Exercicio_Laço_For.genruntimeconfig.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_Laço_For\obj\Debug\net7.0\ref\Exercicio_Laço_For.dll

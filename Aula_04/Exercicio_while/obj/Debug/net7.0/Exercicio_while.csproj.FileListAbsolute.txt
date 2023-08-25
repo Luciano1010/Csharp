@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_while\bin\Debug\net7.0\Exercicio_while.exe
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_while\bin\Debug\net7.0\Exercicio_while.deps.json
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_while\bin\Debug\net7.0\Exercicio_while.runtimeconfig.json
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_while\bin\Debug\net7.0\Exercicio_while.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_while\bin\Debug\net7.0\Exercicio_while.pdb
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_while\obj\Debug\net7.0\Exercicio_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_while\obj\Debug\net7.0\Exercicio_while.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_while\obj\Debug\net7.0\Exercicio_while.AssemblyInfo.cs
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_while\obj\Debug\net7.0\Exercicio_while.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_while\obj\Debug\net7.0\Exercicio_while.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_while\obj\Debug\net7.0\refint\Exercicio_while.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_while\obj\Debug\net7.0\Exercicio_while.pdb
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_while\obj\Debug\net7.0\Exercicio_while.genruntimeconfig.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Exercicio_while\obj\Debug\net7.0\ref\Exercicio_while.dll

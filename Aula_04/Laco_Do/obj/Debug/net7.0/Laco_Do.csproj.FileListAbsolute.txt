@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Laco_Do\obj\Debug\net7.0\Laco_Do.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Laco_Do\obj\Debug\net7.0\Laco_Do.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Laco_Do\obj\Debug\net7.0\Laco_Do.AssemblyInfo.cs
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Laco_Do\obj\Debug\net7.0\Laco_Do.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Laco_Do\bin\Debug\net7.0\Laco_Do.exe
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Laco_Do\bin\Debug\net7.0\Laco_Do.deps.json
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Laco_Do\bin\Debug\net7.0\Laco_Do.runtimeconfig.json
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Laco_Do\bin\Debug\net7.0\Laco_Do.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Laco_Do\bin\Debug\net7.0\Laco_Do.pdb
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Laco_Do\obj\Debug\net7.0\Laco_Do.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Laco_Do\obj\Debug\net7.0\refint\Laco_Do.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Laco_Do\obj\Debug\net7.0\Laco_Do.pdb
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Laco_Do\obj\Debug\net7.0\Laco_Do.genruntimeconfig.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_04\Laco_Do\obj\Debug\net7.0\ref\Laco_Do.dll

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_05 - Vetores e Matrizes\Exercicio_01Vetor\bin\Debug\net7.0\Exercicio_01Vetor.exe
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_05 - Vetores e Matrizes\Exercicio_01Vetor\bin\Debug\net7.0\Exercicio_01Vetor.deps.json
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_05 - Vetores e Matrizes\Exercicio_01Vetor\bin\Debug\net7.0\Exercicio_01Vetor.runtimeconfig.json
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_05 - Vetores e Matrizes\Exercicio_01Vetor\bin\Debug\net7.0\Exercicio_01Vetor.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_05 - Vetores e Matrizes\Exercicio_01Vetor\bin\Debug\net7.0\Exercicio_01Vetor.pdb
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_05 - Vetores e Matrizes\Exercicio_01Vetor\obj\Debug\net7.0\Exercicio_01Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_05 - Vetores e Matrizes\Exercicio_01Vetor\obj\Debug\net7.0\Exercicio_01Vetor.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_05 - Vetores e Matrizes\Exercicio_01Vetor\obj\Debug\net7.0\Exercicio_01Vetor.AssemblyInfo.cs
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_05 - Vetores e Matrizes\Exercicio_01Vetor\obj\Debug\net7.0\Exercicio_01Vetor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_05 - Vetores e Matrizes\Exercicio_01Vetor\obj\Debug\net7.0\Exercicio_01Vetor.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_05 - Vetores e Matrizes\Exercicio_01Vetor\obj\Debug\net7.0\refint\Exercicio_01Vetor.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_05 - Vetores e Matrizes\Exercicio_01Vetor\obj\Debug\net7.0\Exercicio_01Vetor.pdb
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_05 - Vetores e Matrizes\Exercicio_01Vetor\obj\Debug\net7.0\Exercicio_01Vetor.genruntimeconfig.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_05 - Vetores e Matrizes\Exercicio_01Vetor\obj\Debug\net7.0\ref\Exercicio_01Vetor.dll

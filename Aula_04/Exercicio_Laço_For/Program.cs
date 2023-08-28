@@ -18,7 +18,7 @@ namespace Exercicio_Laço_For
             Console.WriteLine("   Digite um numero que seja multiplo de 5: ");
             num2 = Convert.ToInt32(Console.ReadLine());
 
-            if (num1 < num2) // se numero1 for maior que no numero 2 ele pula pra else e finaliza o programa
+            if (num1 < num2) // se numero1 for maior que no numero 2 ele pula pra else e finaliza o programa ou é vdd essa informação?
 
             {
                 for (contador = num1; contador < num2; contador++) // for vai começar a conta aparti do num1 e se o numero num2 for menor o programa e adiciona no contador ++

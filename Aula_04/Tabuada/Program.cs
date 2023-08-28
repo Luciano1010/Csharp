@@ -6,7 +6,7 @@ namespace Tabuada
     {
         static void Main(string[] args)
         {
-            int numero;
+            int numero;// quando colocamos uma variavel no inicio ela é sempre lembrada//
 
             Console.WriteLine(" Digite a Tabuada: ");
             numero = Convert.ToInt32(Console.ReadLine());

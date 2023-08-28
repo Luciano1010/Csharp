@@ -1,18 +1,30 @@
-﻿namespace Exercicio3
+﻿using System;
+
+namespace Exercicio3
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            float bruto = 2000.00f, noturno = 500.00f, extras = 100.00f, descontos = 200.00f, liquido;
+            float  bruto  , noturno , extras  , descontos , liquido;
+
+            Console.WriteLine("\n adicione o valor do salario bruto: ");
+            bruto = Convert.ToSingle(Console.ReadLine());
+
+            Console.WriteLine("\n adicione o valor do adicional noturno: ");
+            noturno = Convert.ToSingle(Console.ReadLine());
+
+            Console.WriteLine("\n adicione o valor das horas extras: ");
+            extras = Convert.ToSingle(Console.ReadLine());
+
+            Console.WriteLine("\n adicione o valor dos descontos: ");
+            descontos = Convert.ToSingle(Console.ReadLine());
+
+
 
             liquido = (bruto + noturno + (extras * 5) - descontos);
 
             Console.WriteLine($"\n Salario do mes :{liquido:f2}");
-
-
-
-
 
              
         }

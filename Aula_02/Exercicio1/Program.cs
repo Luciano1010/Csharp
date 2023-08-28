@@ -5,11 +5,17 @@
         static void Main(string[] args)
         {
             float salario, abono, resultado;
-            Console.WriteLine(" Digite o valor do seu salario: ");
+
+            
+            Console.WriteLine("\n------------inicio-------------\n");
+            
+            Console.WriteLine("\n Digite o valor do seu salario: ");
             salario =Convert.ToSingle(Console.ReadLine());
 
             Console.WriteLine("\n Digite o valor do abono: ");
             abono = Convert.ToSingle(Console.ReadLine());
+
+            Console.WriteLine("\n------------Aguarde......\n");
 
             resultado = salario + abono;
 

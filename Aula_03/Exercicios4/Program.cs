@@ -22,7 +22,7 @@ namespace Exercicios4
             Console.WriteLine(" Opção 2 para X-Salada:------>R$ 15,00 ");
             Console.WriteLine(" Opção 3 para X-Bacon:------->R$ 18,00 ");
             Console.WriteLine(" Opção 4 para Bauru:--------->R$ 12,00 ");
-            Console.WriteLine(" Opção 5 para Refrigerante:-->R$ 8,00 ");
+            Console.WriteLine(" Opção 5 para Refrigerante:-->R$  8,00 ");
             Console.WriteLine(" Opção 6 para Suco de Laranja:R$ 13,00");
 
 
@@ -81,7 +81,8 @@ namespace Exercicios4
 
             }
                   
-                  Console.WriteLine($"Valor :{valorTotal} \n --------------------------");
+                  Console.WriteLine($" " +
+                      $"Valor :{valorTotal} \n --------------------------");
 
         }
 

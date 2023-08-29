@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_05\bin\Debug\net7.0\Exercicio_05.exe
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_05\bin\Debug\net7.0\Exercicio_05.deps.json
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_05\bin\Debug\net7.0\Exercicio_05.runtimeconfig.json
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_05\bin\Debug\net7.0\Exercicio_05.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_05\bin\Debug\net7.0\Exercicio_05.pdb
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_05\obj\Debug\net7.0\Exercicio_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_05\obj\Debug\net7.0\Exercicio_05.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_05\obj\Debug\net7.0\Exercicio_05.AssemblyInfo.cs
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_05\obj\Debug\net7.0\Exercicio_05.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_05\obj\Debug\net7.0\Exercicio_05.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_05\obj\Debug\net7.0\refint\Exercicio_05.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_05\obj\Debug\net7.0\Exercicio_05.pdb
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_05\obj\Debug\net7.0\Exercicio_05.genruntimeconfig.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_05\obj\Debug\net7.0\ref\Exercicio_05.dll

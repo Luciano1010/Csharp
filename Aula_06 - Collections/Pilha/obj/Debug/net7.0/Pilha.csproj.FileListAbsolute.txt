@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Pilha\bin\Debug\net7.0\Pilha.exe
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Pilha\bin\Debug\net7.0\Pilha.deps.json
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Pilha\bin\Debug\net7.0\Pilha.runtimeconfig.json
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Pilha\bin\Debug\net7.0\Pilha.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Pilha\bin\Debug\net7.0\Pilha.pdb
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Pilha\obj\Debug\net7.0\Pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Pilha\obj\Debug\net7.0\Pilha.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Pilha\obj\Debug\net7.0\Pilha.AssemblyInfo.cs
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Pilha\obj\Debug\net7.0\Pilha.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Pilha\obj\Debug\net7.0\Pilha.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Pilha\obj\Debug\net7.0\refint\Pilha.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Pilha\obj\Debug\net7.0\Pilha.pdb
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Pilha\obj\Debug\net7.0\Pilha.genruntimeconfig.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Pilha\obj\Debug\net7.0\ref\Pilha.dll

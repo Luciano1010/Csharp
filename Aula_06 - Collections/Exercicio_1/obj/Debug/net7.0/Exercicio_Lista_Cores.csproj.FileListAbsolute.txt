@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_1\bin\Debug\net7.0\Exercicio_Lista_Cores.exe
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_1\bin\Debug\net7.0\Exercicio_Lista_Cores.deps.json
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_1\bin\Debug\net7.0\Exercicio_Lista_Cores.runtimeconfig.json
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_1\bin\Debug\net7.0\Exercicio_Lista_Cores.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_1\bin\Debug\net7.0\Exercicio_Lista_Cores.pdb
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_1\obj\Debug\net7.0\Exercicio_Lista_Cores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_1\obj\Debug\net7.0\Exercicio_Lista_Cores.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_1\obj\Debug\net7.0\Exercicio_Lista_Cores.AssemblyInfo.cs
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_1\obj\Debug\net7.0\Exercicio_Lista_Cores.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_1\obj\Debug\net7.0\Exercicio_Lista_Cores.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_1\obj\Debug\net7.0\refint\Exercicio_Lista_Cores.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_1\obj\Debug\net7.0\Exercicio_Lista_Cores.pdb
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_1\obj\Debug\net7.0\Exercicio_Lista_Cores.genruntimeconfig.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_06 - Collections\Exercicio_1\obj\Debug\net7.0\ref\Exercicio_Lista_Cores.dll

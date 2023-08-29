@@ -11,21 +11,22 @@ namespace Exercicio_Matriz
             int[] vetorMedia = new int[4];
             int[,] matrizInteiros = new int[4, 10];
 
-
+                                           // get significa que estou pegando a coluna(1)
             for (int coluna = 0; coluna < matrizInteiros.GetLength(1); coluna++)
             {
-                soma = 0;
+                soma = 0;                  // get significa que estou pegando a coluna(1)
                 for (int linha = 0; linha < matrizInteiros.GetLength(0); linha++)
                 {
 
                     Console.WriteLine(
                         $"Digite um valor para a posição [{linha}, {coluna}]: ");
+                    // gravar o numero na linha e coluna atual q estou.
                     matrizInteiros[linha, coluna] = Convert.ToInt32(Console.ReadLine());
                     soma += matrizInteiros[linha, coluna];
-                }
-                vetorMedia[coluna] = soma / matrizInteiros.GetLength(0);
+                }   // estou atribundo um novo valor ao soma- q seria soma + matriz
+                vetorMedia[coluna] = soma / matrizInteiros.GetLength(0); 
                 Console.WriteLine($"Soma de todos os elementos da coluna ({coluna + 1}) é: {vetorMedia[coluna]}\n\n");
-                vetorMedia[coluna] = 0;
+                vetorMedia[coluna] = 0;                               //
             }
 
 

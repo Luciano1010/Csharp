@@ -9,7 +9,7 @@
             bool parada = false;
 
             while (parada == false)
-            {
+            {   
                 Console.WriteLine(
                     "\n\n **************************************************" +
                     "\n                                                     " +
@@ -39,6 +39,7 @@
 
                         Console.WriteLine(" Escreva o nome dos livros ");
                         livros.Push(Console.ReadLine());
+                        Console.WriteLine(" Livro Adicionado com sucesso");
                         Console.Clear();
                         break;
 
@@ -55,7 +56,9 @@
                             Console.WriteLine("* A pilha atual *");
                             foreach (var item in livros)
                                 Console.WriteLine(item);
-                            Console.WriteLine("\n\n===============\n\n");
+                           Console.WriteLine("\n\n===============\n\n");
+                           
+                       
                         }
                         break;
 
@@ -64,11 +67,13 @@
                         if (livros.Count() == 0)
                         {
                             Console.WriteLine(" A Pilha esta Vazia ");
-                        }
+                            Console.Clear ();
+                        }   
                         else
                         {
                             livros.Pop();
-
+                            Console.WriteLine(" Livro Retirado com Sucesso: ");
+                            Console.Clear();
                         }
                         break;
 

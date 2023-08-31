@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\modelo\obj\Debug\net7.0\modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\modelo\obj\Debug\net7.0\modelo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\modelo\obj\Debug\net7.0\modelo.AssemblyInfo.cs
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\modelo\obj\Debug\net7.0\modelo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\modelo\bin\Debug\net7.0\modelo.exe
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\modelo\bin\Debug\net7.0\modelo.deps.json
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\modelo\bin\Debug\net7.0\modelo.runtimeconfig.json
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\modelo\bin\Debug\net7.0\modelo.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\modelo\bin\Debug\net7.0\modelo.pdb
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\modelo\obj\Debug\net7.0\modelo.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\modelo\obj\Debug\net7.0\refint\modelo.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\modelo\obj\Debug\net7.0\modelo.pdb
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\modelo\obj\Debug\net7.0\modelo.genruntimeconfig.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\modelo\obj\Debug\net7.0\ref\modelo.dll

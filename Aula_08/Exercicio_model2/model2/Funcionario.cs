@@ -6,84 +6,66 @@ using System.Threading.Tasks;
 
 namespace Exercicio_model2.model2
 {
-    internal class Conta2
+    public class Funcionario
     {
         private int idade;
-        private string cpf = string.Empty;
-        private int numero;
+        private string numero;
         private string nome = string.Empty;
         private string cargo = string.Empty;
+        private string foto;
 
-        public Conta2(int idade, string cpf, int numero , string nome, string cargo)
+        public Funcionario(int idade,  string numero, string nome, string cargo, string foto)
         {
             this.idade = idade;
-            this.cpf = cpf;
             this.numero = numero;
             this.nome = nome;
             this.cargo = cargo;
+            this.foto = foto;
         }
-        public string getNome()
+        public string GetNome()
         {
             return nome;
         }
-        public string getCpf()
-        {
-            return cpf;
-        }
-        public int getidade()
-        {
-            return idade;
-        }
-        public int getnumero()
+        public string Getnumero(string numero)
         {
             return numero;
         }
-        public string getcargo()
+        public int Getidade(int idade)
+        {
+            return idade;
+        }
+        
+        public string Getcargo()
         {
             return cargo;
         }
-
-
-
-        public void setnome(string nome)
+        public void Getnome(string nome)
         {
             this.nome = nome;
         }
-        public void setcpf(string cpf)
+
+        public void Getfoto(string foto) 
         {
-            this.cpf = cpf;
+            this.foto = foto;
+        
         }
-        public void setidade(int idade)
+      
+      
+       
+        public virtual void Visualizar()
         {
-            this.idade = idade;
-        }
-        public void setnumero(int numero)
-        {
-            this.numero = numero;
-        }
-
-
-
-        public void Visualizar()
-        {
-
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine(
                 "\n*************************************************\n" +
-                "\n     AQUI ESTÁ INFORMAÇÕES DA SUA CONTA\n" +
+                "\n     AQUI ESTÁ INFORMAÇÕES DE SEU REGISTRO \n" +
                 "\n*************************************************\n" +
                 $"\nNome : {this.nome}" +
                 $"\nSua Idade: {this.idade}" +
-                $"\nCPF :{this.cpf}" +
                 $"\nSeu Codigo Interno : {this.numero}" +
                 $"\nCargo Atual: {this.cargo}" +
+                $"\nFoto: {this.foto}" +
                 "\n*************************************************\n");
+               
         }
-
-
-
-
-
-
     }
 }

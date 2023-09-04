@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modelo", "modelo.csproj", "{D2FB3484-D959-406E-BB42-DFCBD0380BA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contas_CC_CP", "Contas_CC_CP.csproj", "{D2FB3484-D959-406E-BB42-DFCBD0380BA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_model2", "..\Exercicio_model2\Exercicio_model2.csproj", "{4920A696-C095-471A-8269-8BAB1F315A52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_Funcionarios", "..\Exercicio_model2\Exercicio_Funcionarios.csproj", "{4920A696-C095-471A-8269-8BAB1F315A52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

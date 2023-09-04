@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\Exercicio_model2\obj\Debug\net7.0\Exercicio_Funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\Exercicio_model2\obj\Debug\net7.0\Exercicio_Funcionarios.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\Exercicio_model2\obj\Debug\net7.0\Exercicio_Funcionarios.AssemblyInfo.cs
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\Exercicio_model2\obj\Debug\net7.0\Exercicio_Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\Exercicio_model2\bin\Debug\net7.0\Exercicio_Funcionarios.exe
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\Exercicio_model2\bin\Debug\net7.0\Exercicio_Funcionarios.deps.json
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\Exercicio_model2\bin\Debug\net7.0\Exercicio_Funcionarios.runtimeconfig.json
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\Exercicio_model2\bin\Debug\net7.0\Exercicio_Funcionarios.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\Exercicio_model2\bin\Debug\net7.0\Exercicio_Funcionarios.pdb
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\Exercicio_model2\obj\Debug\net7.0\Exercicio_Funcionarios.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\Exercicio_model2\obj\Debug\net7.0\refint\Exercicio_Funcionarios.dll
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\Exercicio_model2\obj\Debug\net7.0\Exercicio_Funcionarios.pdb
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\Exercicio_model2\obj\Debug\net7.0\Exercicio_Funcionarios.genruntimeconfig.cache
+C:\Users\User\Desktop\Área de Trabalho\C-Sharp\Aula_08\Exercicio_model2\obj\Debug\net7.0\ref\Exercicio_Funcionarios.dll

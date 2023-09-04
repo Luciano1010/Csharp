@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Área de Trabalho\\C-Sharp\\Aula_08\\modelo\\modelo.csproj",
-      "projectName": "modelo",
-      "projectPath": "C:\\Users\\User\\Desktop\\Área de Trabalho\\C-Sharp\\Aula_08\\modelo\\modelo.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Área de Trabalho\\C-Sharp\\Aula_08\\modelo\\Contas_CC_CP.csproj",
+      "projectName": "Contas_CC_CP",
+      "projectPath": "C:\\Users\\User\\Desktop\\Área de Trabalho\\C-Sharp\\Aula_08\\modelo\\Contas_CC_CP.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\Desktop\\Área de Trabalho\\C-Sharp\\Aula_08\\modelo\\obj\\",
       "projectStyle": "PackageReference",

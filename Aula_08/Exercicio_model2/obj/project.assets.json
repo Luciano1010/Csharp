@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Área de Trabalho\\C-Sharp\\Aula_08\\Exercicio_model2\\Exercicio_model2.csproj",
-      "projectName": "Exercicio_model2",
-      "projectPath": "C:\\Users\\User\\Desktop\\Área de Trabalho\\C-Sharp\\Aula_08\\Exercicio_model2\\Exercicio_model2.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Área de Trabalho\\C-Sharp\\Aula_08\\Exercicio_model2\\Exercicio_Funcionarios.csproj",
+      "projectName": "Exercicio_Funcionarios",
+      "projectPath": "C:\\Users\\User\\Desktop\\Área de Trabalho\\C-Sharp\\Aula_08\\Exercicio_model2\\Exercicio_Funcionarios.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\Desktop\\Área de Trabalho\\C-Sharp\\Aula_08\\Exercicio_model2\\obj\\",
       "projectStyle": "PackageReference",

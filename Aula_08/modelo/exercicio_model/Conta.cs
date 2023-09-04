@@ -7,36 +7,39 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace modelo.exercicio_model
 {
-    internal class Conta
+   public class Conta
     {
-    
+            
        
-
-            private int idade;
-            private int cpf;
+        // atrubutos 
+            private string telefone;
+            private int id; // Cpf ou Cnpj
             private string endereco = string.Empty;
             private string nome = string.Empty;
-            private string email = string.Empty;    
+            private string email = string.Empty; 
+            private string tipo;
+            
 
-        public Conta(int idade, int cpf, string endereco, string nome, string email)
+        public Conta(string telefone, int id, string endereco, string nome, string email, string tipo)
         {
-            this.idade = idade;
-            this.cpf = cpf;
+            this.telefone = telefone;
+            this.id = id;
             this.endereco = endereco;
             this.nome = nome;
             this.email = email;
+            this.tipo = tipo;
         }
         public string getNome()
         {
             return nome;
         }
-        public int getCpf()
+        public int getid()
         {
-            return cpf;
+            return id;
         }
-        public int getidade()
+        public string getelefone()
         {
-            return idade;
+            return telefone;
         }
         public string getemail()
         {
@@ -53,13 +56,13 @@ namespace modelo.exercicio_model
         {
             this.nome = nome;
         }
-        public void setcpf(int cpf )
+        public void setid(int id )
         {
-            this.cpf = cpf;
+            this.id = id;
         }
-        public void setidade(int idade)
+        public void settelefone(string telefone)
         {
-            this.idade = idade;
+            this.telefone = telefone;
         }
         public void setemail(string email)
         {
@@ -68,17 +71,17 @@ namespace modelo.exercicio_model
 
        
 
-        public void Visualizar()
+        public virtual void Visualizar()
         {
-           
+          
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine(
                 "\n*************************************************\n" +
                 "\n     AQUI ESTÁ INFORMAÇÕES DA SUA CONTA\n" +
                 "\n*************************************************\n" +
                 $"\nNome : {this.nome}" +
-                $"\nSua Idade: {this.idade }" +
-                $"\nCPF :{this.cpf}" +
+                $"\nSua telefone: {this.telefone }" +
+                $"\nTipo de Conta :{this.id}" +
                 $"\nEndereço cadastrado: {this.endereco}" +
                 $"\nSeu Email: {this.email}" +
                 "\n*************************************************\n");

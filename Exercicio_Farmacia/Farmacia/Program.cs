@@ -67,25 +67,25 @@ namespace Farmacia
                             Console.BackgroundColor = ConsoleColor.Black;
                             Console.ForegroundColor = ConsoleColor.Yellow;
                             Console.WriteLine("========================");
-                            Console.WriteLine("*Crie o Produto desejado*");
+                            Console.WriteLine("*Crie o Produto desejado*\n");
 
 
                             {
-                                Console.WriteLine("Digite 1 para Medicamento e 2 para Cosmetico: ");
+                                Console.Write("\nDigite 1 para Medicamento e 2 para Cosmetico: \n");
                                 tipo = Convert.ToInt32(Console.ReadLine());
 
 
-                                Console.WriteLine(" Digite o nome do Produto: ");
+                                Console.Write("Digite o Nome...: \n");
                                 nome = Console.ReadLine();
 
 
-                                Console.WriteLine("Digite o valor do Produto");
+                                Console.Write("Digite o valor do Produto R$ \n");
                                 preco = Convert.ToDecimal(Console.ReadLine());
 
                                 switch (tipo)
                                 {
                                     case 1:
-                                        Console.WriteLine("O Produto é Generico?: ");
+                                        Console.WriteLine("O Produto é Generico?:  ");
                                         generico = Console.ReadLine();
                                         Medicamento l1 = new Medicamento(produto.Gerarid(), nome, tipo, preco, generico);
                                         produto.Cadastrar(l1);
@@ -122,7 +122,6 @@ namespace Farmacia
 
                             produto.ListarTodososProdutos();
 
-                            KeyPress();
                             break;
 
 
@@ -134,14 +133,14 @@ namespace Farmacia
                             Console.WriteLine("========================");
 
 
-                            Console.WriteLine("Digite o Id do Produto: ");
+                            Console.Write("Digite o Id do Medicamento ou Cosmético: ");
                             id = Convert.ToInt32(Console.ReadLine());
 
-                            Console.WriteLine("Digite 1 para Medicamento e 2 para Cosmetico: ");
+                            Console.Write("Digite o tipo Produto: ");
                             tipo = Convert.ToInt32(Console.ReadLine());
 
 
-                            Console.WriteLine(" Digite o nome do Produto");
+                            Console.Write(" Digite o nome do Produto: ");
                             nome = Console.ReadLine();
 
 
@@ -149,14 +148,14 @@ namespace Farmacia
                             preco = Convert.ToDecimal(Console.ReadLine());
 
 
-                            Console.Clear();
-                            break;
+                         
+                            
 
 
                             switch (tipo)
                             {
                                 case 1:
-                                    Console.WriteLine("O Produto é Generico: ");
+                                    Console.WriteLine("New Medicamento: ");
                                     generico = Console.ReadLine();
                                     Medicamento l1 = new Medicamento(id, nome, tipo, preco, generico);
                                     produto.AtualizarProduto(l1);
@@ -164,7 +163,7 @@ namespace Farmacia
 
 
                                 case 2:
-                                    Console.WriteLine("Digite o Comestico: ");
+                                    Console.WriteLine("New Comestico: ");
                                     fragancia = Console.ReadLine();
                                     Cosmetico c1 = new Cosmetico(id, nome, tipo, preco, fragancia);
                                     produto.Cadastrar(c1);
